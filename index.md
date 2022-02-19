@@ -3,8 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Home | ITCS
+title: About Me | ITCS
 ---
+
+A resume for me to build
+
 
 # Information Technology and Computer Science - TA
 
