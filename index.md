@@ -3,8 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Home
-permalink: /home/
 ---
 
 # Information Technology and Computer Science, Nile University
@@ -16,5 +14,6 @@ permalink: /home/
 
 - [Computer & Information Skills (CSCI101)](./csci101.md)
 - [Intermediate Programming (CSCI112)](./csci112.md)
-- [Computer Architecture (CSCI 311)](./csci311.md)
 - [Logic Design (CSCI221)](./csci221.md)
+- [Computer Architecture (CSCI 311)](./csci311.md)
+

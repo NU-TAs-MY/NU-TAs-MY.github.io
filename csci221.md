@@ -5,4 +5,4 @@
 layout: page
 ---
 
-# Computer & Information Skills (CSCI101)
+# Logic Design (CSCI221)

@@ -5,4 +5,4 @@
 layout: page
 ---
 
-# Computer & Information Skills (CSCI101)
+# Computer Architecture (CSCI 311)
