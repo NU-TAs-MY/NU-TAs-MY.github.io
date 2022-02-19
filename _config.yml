@@ -28,7 +28,8 @@ linkedin_username: muhamedyoussry
 github_username: muhamedyoussry
 
 # Build settings
-theme: minima
+# removed minima theme as its now a regular theme
+# theme: minima
 plugins:
   - jekyll-feed
 
