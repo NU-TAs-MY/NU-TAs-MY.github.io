@@ -15,6 +15,6 @@ title: Teaching Assistant
 ### Spring 2022
 
 - [Computer & Information Skills (CSCI101)](./ta_pages/csci101.md)
-- [Intermediate Programming (CSCI112)](./csci112.md)
-- [Logic Design (CSCI221)](./csci221.md)
-- [Computer Architecture (CSCI 311)](./csci311.md)
+- [Intermediate Programming (CSCI112)](./ta_pages/csci112.md)
+- [Logic Design (CSCI221)](./ta_pages/csci221.md)
+- [Computer Architecture (CSCI 311)](./ta_pages/csci311.md)
