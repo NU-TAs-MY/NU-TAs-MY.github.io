@@ -11,6 +11,7 @@ title: CSCI311
 
 - [Description](#description)
 - [Materials](#materials)
+- [Sections](#sections)
 
 
 ## Description
@@ -19,3 +20,4 @@ title: CSCI311
 ## Materials
 
 
+## Sections

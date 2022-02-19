@@ -5,4 +5,19 @@
 layout: home
 title: CSCI221
 ---
-# Logic Design (CSCI221)
+
+<h1 align="center"> Logic Design (CSCI221)
+
+<h2> Table of contents </h2>
+
+- [Description](#description)
+- [Materials](#materials)
+- [Sections](#sections)
+
+
+## Description
+
+
+## Materials
+
+## Sections
