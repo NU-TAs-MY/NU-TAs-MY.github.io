@@ -5,10 +5,9 @@ _class: lead
 paginate: true
 backgroundColor: #fff
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
-transition: fade
 ---
 
-![bg left:40% 60%](../../assets/Slides_logo.png)
+![bg left:40% 45%](../../assets/Slides_logo.png)
 
 # **CSCI 101**
 
