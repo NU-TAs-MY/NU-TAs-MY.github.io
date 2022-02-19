@@ -3,6 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: CSCI101 | ITCS
+title: CSCI101
 ---
 # Computer & Information Skills (CSCI101)

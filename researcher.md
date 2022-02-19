@@ -6,7 +6,7 @@ layout: home
 title: Researcher
 ---
 
-# Software Engineering for Machine learning - Research
+# Software Engineering for Machine learning
 
-<p align="center"><img src="https://wallpaperaccess.com/full/1846921.jpg" width="400"></p>
+<p align="center"><img src="https://wallpaperaccess.com/full/1846921.jpg"></p>
 
