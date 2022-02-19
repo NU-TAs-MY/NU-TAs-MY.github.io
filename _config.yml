@@ -27,9 +27,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: muhamedyoussry
 github_username: muhamedyoussry
 
+author: Mohamed Youssry Ahmed
 # Build settings
 # removed minima theme as its now a regular theme
-# theme: minima
+theme: minima
 plugins:
   - jekyll-feed
 
