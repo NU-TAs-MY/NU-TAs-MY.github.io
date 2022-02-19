@@ -12,15 +12,17 @@ title: About Me
 Teaching Assistant in Computer Sciences and Artificial Intelligence | Software Engineering Master Student at Nile University | ICT Content Developer at Nagwa
 
 ---
-### Professional Summary
+### **Professional Summary**
 Productive and proactive software engineer, who has deep knowledge in the fundamentals of programming, data structure, algorithms, OOP, machine learning, data science, and project management. Have strong interpersonal skills due to actively collaborating and leading a volunteering activity during my college life.
 
-> My mission is to develop my technical and interpersonal skills to lead the positive change in the technology education industry.
+&nbsp;
+
+*My mission is to develop my technical and interpersonal skills to lead the positive change in the technology education industry.*
 
 --- 
-### Education
+### **Education**
 
-- Master of Software Engineering – Nile University School of Communications & Information Technology - *(2/2022 – present)*
-- Bachelor of Systems & Biomedical Engineering (B. Eng.)  - Cairo University Faculty of Engineering - *(5/2015 – 5/2020)* **GPA 3.0**
+- Master of Software Engineering – Nile University School of Communications & Information Technology - (2/2022 – present)
+- Bachelor of Systems & Biomedical Engineering (B. Eng.)  - Cairo University Faculty of Engineering - (5/2015 – 5/2020) - GPA 3.0
 
 ---
