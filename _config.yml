@@ -21,13 +21,11 @@
 title: Nile University - ITCS
 email: mohamedyoussryahmed@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a documentation page created by TA/Mohamed Youssry from Nile University faculty of Information Technology and Computer Science.
-  The documentation will be for the teached courses as a teaching assistant, master courses for the software engineering master degree at Nile Univesity,
-  and a roadmap for my reasearch journey in the field of software engineering for machine learnin.
+  This is a documentation page created by TA/Mohamed Youssry from Nile University faculty of Information Technology and Computer Science. The documentation will be for the taught courses as a teaching assistant, master courses for the software engineering master's degree at Nile Univesity, and a roadmap for my research journey in the field of software engineering for machine learning.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-linkedin_username: mohamed-youssry
-github_username:  muhamedyoussry
+linkedin_username:    mohamed-youssry
+github_username:      muhamedyoussry
 
 # Build settings
 theme: minima
