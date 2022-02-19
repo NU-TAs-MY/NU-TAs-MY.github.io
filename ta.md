@@ -3,10 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Teaching Assistant | ITCS
+title: Teaching Assistant
 ---
 
-# Information Technology and Computer Science - TA
+# Information Technology and Computer Science - Nile University
 
 <p align="center"><img src="https://scontent.fcai1-2.fna.fbcdn.net/v/t1.6435-9/116426020_103571738121410_7798782995092997135_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeHOmBosvFLBGjJ-SpyNfLx0a3khTMimxJNreSFMyKbEk-2f3OwfQqkdj0UEeNxLLfY6jZ8cffHDPK2nqnh5WOpB&_nc_ohc=Lya0LgXl0RgAX9qpGzv&_nc_ht=scontent.fcai1-2.fna&oh=00_AT9dxcPGuhZi08koo_zahy34OdcLoNSOVweBuywjEQ9IYg&oe=623603B9" width="400"></p>
 

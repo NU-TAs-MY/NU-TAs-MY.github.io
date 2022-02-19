@@ -3,15 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: About Me | ITCS
+title: About Me
 ---
 
 A resume for me to build
-
-
----
----
-# Software Engineering for Machine learning - Research
-
-<p align="center"><img src="https://wallpaperaccess.com/full/1846921.jpg" width="400"></p>
-
