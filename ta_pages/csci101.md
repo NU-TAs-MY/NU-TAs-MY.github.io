@@ -12,11 +12,14 @@ title: CSCI101
 - [Description](#description)
 - [Materials](#materials)
 - [Sections](#sections)
+  - [Week 1](#week-1)
 
 
 ## Description
 
-
 ## Materials
 
 ## Sections
+
+### Week 1
+- [Slides](../ta_pages/courses_slides/csci101Slides.html)
