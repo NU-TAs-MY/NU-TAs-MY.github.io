@@ -22,9 +22,7 @@ This course will include the following topics: review on number systems: binary 
 
 ## Materials
 
-One drive [link](https://nileuniversity-my.sharepoint.com/personal/alymohamed_nu_edu_eg/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Falymohamed%5Fnu%5Fedu%5Feg%2FDocuments%2FCSCI221%2DSp22) for the materials (Lectures, Labs, Tutorials, Projects)
-
-* *Specific for Nile University Teacher Assistants Only*
+*Materials are restricted to NU students and NU TAs, so it is not sharable.*
 
 ## Course Outline
 
@@ -59,4 +57,4 @@ One drive [link](https://nileuniversity-my.sharepoint.com/personal/alymohamed_nu
 
 ## Sections
 
-- [Week 1 Lab](./Week1LabSlides.md)
+- [Week 1 Lab](./Week1LabSlides.html)

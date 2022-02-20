@@ -22,4 +22,4 @@ title: CSCI101
 ## Sections
 
 ### Week 1
-- [Slides](../ta_pages/courses_slides/csci101Slides.html)
+- [Slides](./csci101Slides.html)
