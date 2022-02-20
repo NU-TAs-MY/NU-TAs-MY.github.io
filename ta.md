@@ -12,9 +12,13 @@ title: Teaching Assistant
 
 ## Courses Taught
 
-### Spring 2022
+### Spring 2022: Labs and Tutorials
 
-- [Computer & Information Skills (CSCI101)](./ta_pages/csci101.md)
-- [Intermediate Programming (CSCI112)](./ta_pages/csci112.md)
-- [Logic Design (CSCI221)](./ta_pages/csci221.md)
-- [Computer Architecture (CSCI 311)](./ta_pages/csci311.md)
+- [Computer & Information Skills (CSCI101)](./ta_pages/csci101/csci101.md)
+- [Intermediate Programming (CSCI112)](./ta_pages/csci112/csci112.md)
+- [Logic Design (CSCI221)](./ta_pages/csci221/csci221.md)
+- [Computer Architecture (CSCI 311)](./ta_pages/csci311/csci311.md)
+
+### Spring 2022: Outsource Study Material
+
+- [Computer Archeticture by Princeton University](./ta_pages/csci311/compArchPrinc.md)
