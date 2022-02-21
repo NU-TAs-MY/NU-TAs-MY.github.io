@@ -4,7 +4,7 @@ theme: gaia
 _class: lead
 paginate: true
 backgroundColor: #fff
-backgroundImage: url('https://marp.app/assets/hero-background.svg')
+# backgroundImage: url('https://marp.app/assets/hero-background.svg')
 ---
 
 ![bg left:40% 45%](../../assets/Slides_logo.png)
@@ -39,7 +39,7 @@ Logic Design - Lab 1
 ## Lab Components
 
 2. Wires and leds
-3. Swutches and Battery
+3. Switches and Battery
 4. Resistors
 
 [TinkerCad](https://www.tinkercad.com/learn/circuits/learning)
