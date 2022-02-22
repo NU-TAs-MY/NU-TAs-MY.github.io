@@ -29,12 +29,12 @@ title: Researcher
 - [ ] Software Project Management 
 - [ ] Advanced Software Engineering
 - [ ] Systems Engineering
-- [ ] Computer Algorithms
+- [ ] Data Structure & Computer Algorithms
 
 ### Mathematics
 
 - [ ] Mathematics for Machine learning [Book](https://mml-book.github.io/book/mml-book.pdf)
-- [ ] Mathematics for Machine Learning Specialization
+- [ ] Mathematics for Machine Learning Specialization [Course](https://www.coursera.org/specializations/mathematics-machine-learning)
 - [ ] Statistics With R [Course](https://www.coursera.org/specializations/statistics)
 
 ### Programming
@@ -51,6 +51,7 @@ title: Researcher
 
 ### Machine learning
 
+- [ ] Machine Learning Stanford [Course](https://www.coursera.org/learn/machine-learning)
 - [ ] Data Science Specialization with R [Course](https://www.coursera.org/specializations/jhu-data-science)
 - [ ] Applied Data Science with Python [Course](https://www.coursera.org/specializations/data-science-python)
 - [ ] Deep Learning Specialization [Course](https://www.coursera.org/specializations/deep-learning)
