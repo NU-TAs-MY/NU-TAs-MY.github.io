@@ -38,21 +38,23 @@ Basic laws underlying performance evaluation. The student learns how to design t
   - Introduction to Computing Systems: From Bits and Gates to C and Beyond, Second Edition by Patt and Patel, McGraw-Hill [Pdf](https://nileuniversity-my.sharepoint.com/:f:/g/personal/m_2110_nu_edu_eg/Er1vQ3Ugr9NFmvLlzXppWNEBq5pfS7phn8Zl4N_GG0SSsw?e=ISsZM6)
 
 ## Course Outline
-| Date                | Lecture Topic | Tutorial/Lab Topic |
-|---------------------|---------------|--------------------|
-| Week 1 (20/2-24/2)  |Lecture 1: Introduction and Basics|                    |
-| Week 2 (27/2-3/3)   |               |                    |
-| Week 3 (6/3-10/3)   |               |                    |
-| Week 4 (13/3-17/3)  |               |                    |
-| Week 5 (20/3-24/3)  |               |                    |
-| Week 6 (27/3-31/3)  |               |                    |
-| Week 7 (3/4-7/4)    |               |                    |
-| Week 8 (9/4-16/4)   |               |                    |
-| Week 12 (8/5-12/5)  |               |                    |
-| Week 13 (15/5-19/5) |               |                    |
-| Week 14 (22/5-26/5) |               |                    |
-| Week 15 (29/5-2/6)  |               |                    |
-| Week 16 (5/6-9/6)   |               |                    |
+
+| Date                | Lecture Topic                      | Tutorial/Lab Topic |
+|---------------------|------------------------------------|--------------------|
+| Week 1 (20/2-24/2)  | Lecture 1: Introduction and Basics |                    |
+| Week 2 (27/2-3/3)   |                                    |                    |
+| Week 3 (6/3-10/3)   |                                    |                    |
+| Week 4 (13/3-17/3)  |                                    |                    |
+| Week 5 (20/3-24/3)  |                                    |                    |
+| Week 6 (27/3-31/3)  |                                    |                    |
+| Week 7 (3/4-7/4)    |                                    |                    |
+| Week 8 (9/4-16/4)   |                                    |                    |
+| Week 12 (8/5-12/5)  |                                    |                    |
+| Week 13 (15/5-19/5) |                                    |                    |
+| Week 14 (22/5-26/5) |                                    |                    |
+| Week 15 (29/5-2/6)  |                                    |                    |
+| Week 16 (5/6-9/6)   |                                    |                    |
+
 
 ## Course Grades
 
