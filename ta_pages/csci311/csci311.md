@@ -16,6 +16,7 @@ title: CSCI311
 - [Course Grades](#course-grades)
 - [Sections](#sections)
   - [Week 1](#week-1)
+  - [Week 2](#week-2)
 
 
 ## Description
@@ -42,7 +43,7 @@ Basic laws underlying performance evaluation. The student learns how to design t
 | Date                | Lecture Topic                      | Tutorial/Lab Topic |
 |---------------------|------------------------------------|--------------------|
 | Week 1 (20/2-24/2)  | Lecture 1: Introduction and Basics |                    |
-| Week 2 (27/2-3/3)   |                                    |                    |
+| Week 2 (27/2-3/3)   |                                    |         Lab 1: Introduction to Verilog, AND Gate           |
 | Week 3 (6/3-10/3)   |                                    |                    |
 | Week 4 (13/3-17/3)  |                                    |                    |
 | Week 5 (20/3-24/3)  |                                    |                    |
@@ -76,4 +77,8 @@ Basic laws underlying performance evaluation. The student learns how to design t
 ### Week 1
 - Lecture Slides
 - Text Books Chapters
-- YouTube supported material
+- YouTube supported material 
+
+### Week 2
+- Lecture Slides
+- Tutorial/Lab 1

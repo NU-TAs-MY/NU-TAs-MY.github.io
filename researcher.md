@@ -39,7 +39,7 @@ title: Researcher
 
 ### Programming
 
-- [ ] Python DataCamp
+- [ ] Python DataCamp - [GitHub](./master_pages/dataSciencePy.md)
 - [ ] R DataCamp
 - [ ] SQL DataCamp
 

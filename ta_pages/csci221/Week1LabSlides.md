@@ -9,7 +9,7 @@ backgroundColor: #fff
 
 ![bg left:40% 45%](../../assets/Slides_logo.png)
 
-# **CSCI 211**
+# **CSCI 221**
 
 Logic Design - Lab 1
 
