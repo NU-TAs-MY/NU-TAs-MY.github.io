@@ -29,6 +29,8 @@ title: Researcher
 - [ ] Software Project Management 
 - [ ] Advanced Software Engineering
 - [ ] Systems Engineering
+- [ ] Object Oriented Programming in C++ [GitHub](https://github.com/muhamedyoussry/Object-Oriented-Programming-CPP)
+- [ ] Object Oriented Programming in Java Specialization [Course](https://www.coursera.org/specializations/object-oriented-programming)
 - [ ] Data Structure & Computer Algorithms
 
 ### Mathematics
@@ -39,19 +41,25 @@ title: Researcher
 
 ### Programming
 
-- [ ] Python DataCamp - [GitHub](./master_pages/dataSciencePy.md)
+- [ ] Python DataCamp - [Documentation Files](./master_pages/dataSciencePy.md)
+  - [x] Introduction to Data Science in Python
 - [ ] R DataCamp
 - [ ] SQL DataCamp
+  - [x] Introduction to SQL
+
 
 ### Data Analysis
 
 - [ ] Data Analysis DataCamp
+  - [x] Introduction to Data Science in Python
+  - [x] Introduction to SQL
+  - [ ] Intermediate Python
 - [ ] Data Visualization and Dashboarding with R [Course](https://www.coursera.org/specializations/jhu-data-visualization-dashboarding-with-r)
 
 
 ### Machine learning
 
-- [ ] Machine Learning Stanford [Course](https://www.coursera.org/learn/machine-learning)
+- [ ] Machine Learning Stanford [Course](https://www.coursera.org/learn/machine-learning) + Hesham Asem [YouTube](https://www.youtube.com/c/HeshamAsem/playlists) - [GitHub](./master_pages/MLpython.md)
 - [ ] Data Science Specialization with R [Course](https://www.coursera.org/specializations/jhu-data-science)
 - [ ] Applied Data Science with Python [Course](https://www.coursera.org/specializations/data-science-python)
 - [ ] Deep Learning Specialization [Course](https://www.coursera.org/specializations/deep-learning)
