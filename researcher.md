@@ -53,13 +53,14 @@ title: Researcher
 - [ ] Data Analysis DataCamp
   - [x] Introduction to Data Science in Python
   - [x] Introduction to SQL
-  - [ ] Intermediate Python
+  - [x] Intermediate Python
 - [ ] Data Visualization and Dashboarding with R [Course](https://www.coursera.org/specializations/jhu-data-visualization-dashboarding-with-r)
 
 
 ### Machine learning
 
-- [ ] Machine Learning Stanford [Course](https://www.coursera.org/learn/machine-learning) + Hesham Asem [YouTube](https://www.youtube.com/c/HeshamAsem/playlists) - [GitHub](./master_pages/MLpython.md)
+- [x] Machine Learning Stanford [Course](https://www.coursera.org/learn/machine-learning) - [GitHub](https://github.com/muhamedyoussry/Machine_learning_Andrew)
+  - [ ] Introduction to Machine learning [YouTube](https://www.youtube.com/watch?v=QQeT4z5rdtE&list=PL6-3IRz2XF5Vf1RAHyBo4tRzT8lEavPhR) - [GitHub](./master_pages/MLpython.md)
 - [ ] Data Science Specialization with R [Course](https://www.coursera.org/specializations/jhu-data-science)
 - [ ] Applied Data Science with Python [Course](https://www.coursera.org/specializations/data-science-python)
 - [ ] Deep Learning Specialization [Course](https://www.coursera.org/specializations/deep-learning)
