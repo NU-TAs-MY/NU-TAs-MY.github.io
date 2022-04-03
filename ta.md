@@ -18,3 +18,9 @@ title: Teaching Assistant
 - [Intermediate Programming (CSCI112)](./ta_pages/csci112/csci112.md)
 - [Digital Image Processing (CSCI451)](./ta_pages/csci451/csci451.md)
 - [Medical Image Informatics (BMD404)](./ta_pages/bmd404/bmd404.md)
+
+## Online YouTube Courses Taught
+
+### Spring 2022: Labs and Tutorials
+
+- [C++ Programming for Beginners - CPP101](./ta_pages/CPP101/CPP101.md)
