@@ -14,6 +14,7 @@ title: Machine Learning | Python
 
 - [Materials](#materials)
 - [Mathematics](#mathematics)
+- [Important Definitions in Machine Learning](#important-definitions-in-machine-learning)
 - [Machine Learning Introduction](#machine-learning-introduction)
 
 ## Materials
@@ -21,6 +22,19 @@ title: Machine Learning | Python
 
 
 ## Mathematics
+
+## Important Definitions in Machine Learning
+
+- What is Artificial intelligence?
+  - Artificial intelligence (AI) is the ability of a computer or a robot controlled by a computer to do tasks that are usually done by humans.
+- What is Machine Learning?
+  - Machine learning is a subfield of artificial intelligence, which is broadly defined as the capability of a machine to imitate intelligent human behavior.
+- What is Big data?
+  - big data is larger, more complex data sets, especially from new data sources.
+- What is Data Science?
+  -  preparing data for analysis, including cleaning, aggregating, and manipulating the data to perform advanced data analysis. After data analytics we could predict or draw insights from data.
+
+<center><img width="300" src="https://www.researchgate.net/publication/330948278/figure/fig1/AS:723867312062471@1549594824742/The-field-of-data-science-including-statistics-big-data-and-artificial-intelligence-8.ppm"/></center>
 
 ## Machine Learning Introduction
 
