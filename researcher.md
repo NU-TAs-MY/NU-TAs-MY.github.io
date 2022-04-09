@@ -37,7 +37,7 @@ title: Researcher
 
 - [ ] Mathematics for Machine learning [Book](https://mml-book.github.io/book/mml-book.pdf)
 - [ ] Mathematics for Machine Learning Specialization [Course](https://www.coursera.org/specializations/mathematics-machine-learning)
-- [ ] Statistics With R [Course](https://www.coursera.org/specializations/statistics)
+- [ ] Statistics and Probability with R [GitHub Page](master_pages/Statistics%20and%20Probability.md)
 
 ### Programming
 
