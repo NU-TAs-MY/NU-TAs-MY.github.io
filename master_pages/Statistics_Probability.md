@@ -12,9 +12,20 @@ title: Statistics and Probability | R
 
 <h2> Table of Contents </h2>
 
+- [Steps of Statistical Methods](#steps-of-statistical-methods)
 - [Statistics Introduction](#statistics-introduction)
 - [Data Descriptors (Descriptive Statistics)](#data-descriptors-descriptive-statistics)
+- [Population and Samples](#population-and-samples)
 - [Probability Theory](#probability-theory)
+
+
+## Steps of Statistical Methods
+
+  1. **Gathering data** the knowledge of collecting sample to represent the whole population.
+  2. **Describing and visualizing data** the knowledge of summarizing and visualize the data by numbers, graphs, and charts.
+  3. **Making conclusions** Statistics from the data in the sample is used to make conclusions about the whole population. Probability theory is used to calculate the certainty that those statistics also apply to the population.
+
+
 
 
 ## Statistics Introduction
@@ -43,6 +54,24 @@ title: Statistics and Probability | R
     - Standard deviation or variance: the average (mean) of the squared deviation of each value in a data set, of n elements, from the data set mean
     - Median absolute Difference (MAD): the median of the difference between data set and their true median.
 
+## Population and Samples 
+
+- The terms `population` and `sample` are important in statistics and refer to key concepts that are closely related.
+  - *Population* Everything in the group that we want to learn about.
+  - *Sample* A part of the population.
+
+- For good statistical analysis, the sample needs to be as "similar" as possible to the population. If they are similar enough, we say that the sample is representative of the population.
+
+- The sample is used to make conclusions about the whole population. If the sample is not similar enough to the whole population, the conclusions could be useless.
+
+** [Copied from: W3Schools](https://www.w3schools.com/statistics/statistics_populations_and_samples.php)
+
+
 ## Probability Theory
 
+- *Random experiment* can result in different outcomes every time it is repeated, even though it is repeated in the same manner.
+- *Sample Space* the set of all possible outcomes of that random experiment.
+  - Discrete: could be finite countable or infinite countable set of outcomes.
+  - Continuous: an interval of real numbers
+- *Event* a subset of the sample space of a random experiment.
 - 

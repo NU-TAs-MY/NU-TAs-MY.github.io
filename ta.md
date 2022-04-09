@@ -6,7 +6,9 @@ layout: home
 title: Teaching Assistant
 ---
 
-# Information Technology and Computer Science - Nile University
+<h1 align="center"> Information Technology and Computer Science - Nile University </h1>
+
+
 
 <p align="center"><img src="https://wallpaperaccess.com/full/1846921.jpg"></p>
 
