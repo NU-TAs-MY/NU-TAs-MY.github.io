@@ -23,6 +23,4 @@ title: Teaching Assistant
 
 ## Online YouTube Courses Taught
 
-### Spring 2022: Labs and Tutorials
-
 - [C++ Programming for Beginners - CPP101](./ta_pages/CPP101/CPP101.md)

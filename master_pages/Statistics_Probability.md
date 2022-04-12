@@ -40,7 +40,9 @@ title: Statistics and Probability | R
   - *Quantitative* numerical or binary (audio files or images)
     - could be discrete or continuous
   - *Qualitative* categorical
-
+- Main types of statistical studies:
+  - *Observational* 
+  - *Experimental*
 
 ## Data Descriptors (Descriptive Statistics)
 
@@ -59,12 +61,13 @@ title: Statistics and Probability | R
 - The terms `population` and `sample` are important in statistics and refer to key concepts that are closely related.
   - *Population* Everything in the group that we want to learn about.
   - *Sample* A part of the population.
-
 - For good statistical analysis, the sample needs to be as "similar" as possible to the population. If they are similar enough, we say that the sample is representative of the population.
-
 - The sample is used to make conclusions about the whole population. If the sample is not similar enough to the whole population, the conclusions could be useless.
+- - *Parameter* A number that describes something about the whole **population**.
+- *Sample Statistics* A number that describes something about the **sample**.
+  - For every parameter we want to learn about we can get a sample and calculate a sample statistic, which gives us an estimate of the parameter.
 
-** [Copied from: W3Schools](https://www.w3schools.com/statistics/statistics_populations_and_samples.php)
+** Some definitions are taken from: [W3Schools](https://www.w3schools.com/statistics/statistics_parameters_and_statistics.php)
 
 
 ## Probability Theory
@@ -74,4 +77,15 @@ title: Statistics and Probability | R
   - Discrete: could be finite countable or infinite countable set of outcomes.
   - Continuous: an interval of real numbers
 - *Event* a subset of the sample space of a random experiment.
-- 
+- *Probability* is a numerical measure between 0 and 1 that quantifies how likely an event A will occur.
+  - *Marginal Probability* : P(A) the probability that event A will happen.
+  - *Conditional Probability*: P(A/B) the probability of event A happends given that event B already happened.
+  - *Joint Probability*: P(A,B) the probability that events A and B happen together at the same time.
+- There are many types of how to calculate the probability:
+  - Frequentist Probability which is the `numbre of times event A occurs / n times`
+- Probability Axioms:
+  -  `0 <= P(E) <= 1`
+  -  `P(S) = 1`  probability of the sample sapce is equal to 1
+  -  If `A intersection B = Phi` (Empty set), then `the probability of their union is the sum of their probability`.
+  -  P(E`) = 1 - P(E)
+  -  `P(Phi) = 0`
