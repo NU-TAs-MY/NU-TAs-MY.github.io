@@ -89,3 +89,5 @@ title: Statistics and Probability | R
   -  If `A intersection B = Phi` (Empty set), then `the probability of their union is the sum of their probability`.
   -  P(E`) = 1 - P(E)
   -  `P(Phi) = 0`
+-  Cumulative probability. example: `P(X<=2)  = P(X=1) + P(X=2)`
+-  
